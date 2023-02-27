@@ -41,11 +41,3 @@ Part 4, as usual, is repetition of duties you will be doing in industry.
 * Issue a Pull request back to my Java-Assignment-005 repo
 * Cut and Paste the Pull request URL into your Canvas assignment to turn it in.
 
-/**
-*
-* @author Trevor Hartman
-* @author Geng Cha
-*
-* @since Version 1.0
-*
-*/
